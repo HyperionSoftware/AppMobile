@@ -3,6 +3,13 @@ App Android Studio Proyecto Integrador Hyperion 2022/23
 
 ## Authors
 
+|Nombre |Correo electrónico|Github|
+|-----|--------|--------|
+|Ricard Bosch Perianes|ricardbope@gmail.com   |[@RickyBP](https://github.com/RickyBP)|
+|Claudia Rodriguez Martinez  |claudiasarlle@gmail.com      |[@claudiasarlle1](https://github.com/claudiasarlle1)|
+|Carlos Martínez González   |carlosmg.12@hotmail.es|[@Fullettortuga](https://github.com/Fullettortuga)|
+|Joan Bonell Ruiz| joanbonellruiz@gmail.com|[@JoanBonell](https://github.com/JoanBonell)|
+
 - [@claudiasarlle1](https://github.com/claudiasarlle1)
 - [@RickyBP](https://github.com/RickyBP)
 - [@JoanBonell](https://github.com/JoanBonell)
