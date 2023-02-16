@@ -5,5 +5,5 @@ Esta versión nos añade mejoras de seguridad, notificaciones mejoradas y mejora
 
 ## Define java version 7 or 8
 
-La versión utilizada es la 17.0.6 LTS, porque con esta versión obtenemos soporte por parte de Oracle hasta 2024. En cambio con la version 19 solo
+La versión utilizada es la 17.0.6 LTS, porque con esta versión obtenemos soporte por parte de Oracle hasta 2024. En cambio con la versión 19 sólo
 obtenemos soporte hasta marzo de 2023.
