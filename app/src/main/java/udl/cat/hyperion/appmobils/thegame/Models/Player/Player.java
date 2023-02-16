@@ -25,6 +25,7 @@ public class Player {
 
     public String getName(){
         //TODO
+        return new String("Todo");
     }
 
     public int getPoints(){
