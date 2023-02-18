@@ -10,7 +10,19 @@ public class Card {
     private Element element;
     private int value;
 
-    public Element getElement() {
-        return element;
+    private int positionRow;
+    private int positionColumn;
+
+    private boolean selected;
+
+    public Card(){
+        //TODO
+    }
+    public void capture(){
+        //TODO
+    }
+
+    public void select(){
+        //TODO
     }
 }

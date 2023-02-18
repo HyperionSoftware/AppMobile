@@ -9,29 +9,21 @@ public class Player {
     private ArrayList<Card> cards;
     private boolean isComputer;
 
-    public Card selectCard(){
-        //TODO
-        Card card = new Card();
-        return card;
-    }
-
-    public void placeCard(Card card){
+    public void playCard(Card card){
         //TODO
     }
 
-    public void addPoints(){
+    public Card captureCard(){
         //TODO
+        return new Card();
     }
 
-    public String getName(){
+    public int calculatePuntuation(){
         //TODO
-        return new String("Todo");
+        return 0;
     }
 
-    public int getPoints(){
-        //TODO
-        return points;
-    }
+
 
 
 }
