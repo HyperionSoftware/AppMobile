@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TheGame</string>
+    <string name="aboutPage">About Page</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="authors">Authors:</string>
+    <string name="version">Version</string>
+    <string name="versionReal">Version 1.0.0</string>
 </resources>
