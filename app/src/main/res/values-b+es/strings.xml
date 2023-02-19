@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ElJuego</string>
+    <string name="aboutPage">Sobre nosotros</string>
+    <string name="helloWorld">Hola Mundo!</string>
+    <string name="authors">Autores:</string>
+    <string name="version">Versión</string>
+    <string name="versionReal">Versión 1.0.0</string>
 </resources>
