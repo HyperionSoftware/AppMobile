@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"udl.cat.hyperion.appmobils.thegame.Models"},{"l":"udl.cat.hyperion.appmobils.thegame.Models.Player"}]
