@@ -10,7 +10,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     private Button aboutPageButton;
-
+    private Button termsAndConditionsButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,10 +24,23 @@ public class MainActivity extends AppCompatActivity {
                 openActivityAboutPage();
             }
         });
+
+        termsAndConditionsButton = (Button) findViewById(R.id.button2);
+        termsAndConditionsButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                openActivitytermsAndConditionsPage();
+            }
+        });
+
     }
 
     public void openActivityAboutPage(){
         Intent intent = new Intent(this, AboutPage.class);
+        startActivity(intent);
+    }
+    public void openActivitytermsAndConditionsPage(){
+        Intent intent = new Intent(this, TermsAndConditions.class);
         startActivity(intent);
     }
 }
