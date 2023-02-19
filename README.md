@@ -10,10 +10,7 @@ App Android Studio Proyecto Integrador Hyperion 2022/23
 |Carlos Martínez González   |carlosmg.12@hotmail.es|[@Fullettortuga](https://github.com/Fullettortuga)|
 |Joan Bonell Ruiz| joanbonellruiz@gmail.com|[@JoanBonell](https://github.com/JoanBonell)|
 
-- [@claudiasarlle1](https://github.com/claudiasarlle1)
-- [@RickyBP](https://github.com/RickyBP)
-- [@JoanBonell](https://github.com/JoanBonell)
-- [@Fullettortuga](https://github.com/Fullettortuga)
+
 
 ## Game idea
 
