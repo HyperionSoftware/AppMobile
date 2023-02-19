@@ -5,4 +5,10 @@
     <string name="authors">Autores:</string>
     <string name="version">Versión</string>
     <string name="versionReal">Versión 1.0.0</string>
+    <string name="termsAndConditionsButton"><![CDATA[Terms&Conditions]]></string>
+    <string name="termsAndConditionsfromAPP">Última actualización 19/02/2023
+     Somos Hyperion, operamos esta aplicación móvil.
+     Estos términos legales constituyen un acuerdo legalmente vinculante entre usted, ya sea personalmente o en nombre de una entidad (\\usted) y nosotros.
+     No compartimos los almacenes de terceros de nuestros datos.
+         Usted está confirmando estos términos y condiciones al instalar la aplicación desde la tienda de aplicaciones.</string>
 </resources>
