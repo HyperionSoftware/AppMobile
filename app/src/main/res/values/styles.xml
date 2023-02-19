@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Definición del estilo para la actividad de splash screen -->
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@drawable/splash_background</item>
+    </style>
+
+
+</resources>
