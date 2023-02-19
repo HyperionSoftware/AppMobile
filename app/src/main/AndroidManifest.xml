@@ -16,6 +16,8 @@
             android:exported="false" />
         <activity
             android:name=".SplashActivity"
+
+            android:name=".AboutPage"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
