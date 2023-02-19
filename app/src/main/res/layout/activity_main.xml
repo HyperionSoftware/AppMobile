@@ -16,6 +16,14 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/btnTerminosCondiciones"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Terminos y condiciones"
+        tools:layout_editor_absoluteX="88dp"
+        tools:layout_editor_absoluteY="457dp" />
+
 
     <Button
         android:id="@+id/button"
