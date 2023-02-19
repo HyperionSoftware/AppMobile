@@ -1,37 +1,43 @@
 <resources>
     <string name="app_name">TheGame</string>
+    <string name="atras">atrás</string>
+    <string name="aboutPage">Sobre nosotros</string>
+    <string name="helloWorld">Hola Mundo!</string>
+    <string name="authors">Autores:</string>
+    <string name="version">Versión</string>
+    <string name="versionReal">Versión 1.0.0</string>
     <string name="terminos_y_condiciones">
-        Términos y condiciones de uso de la aplicación móvil Hyperion
+        Hyperion Mobile App Terms and Conditions of Use
 
-        Bienvenido/a a la aplicación móvil de Hyperion (en adelante, la "Aplicación"). Estos términos y condiciones (en adelante, los "Términos") establecen las condiciones de uso de la Aplicación. Al utilizar la Aplicación, usted acepta estos Términos en su totalidad. Si no está de acuerdo con estos Términos, no utilice la Aplicación.
-        Objeto de la Aplicación
-La Aplicación es un servicio de [descripción del servicio ofrecido por la aplicación]. La 		  empresa Hyperion es propietaria de la Aplicación y se reserva todos los derechos sobre ella.
-Condiciones de uso
-Al utilizar la Aplicación, usted acepta las siguientes condiciones:
-a. Usted es responsable del uso que haga de la Aplicación. No puede utilizar la Aplicación para fines ilegales o no autorizados.
-b. No puede utilizar la Aplicación de forma que pueda dañar, desactivar, sobrecargar o perjudicar la Aplicación o interferir en su uso por otros usuarios.
-c. No puede utilizar la Aplicación para enviar correo no deseado, spam o cualquier otro tipo de comunicación no solicitada.
-d. No puede copiar, modificar o distribuir contenido de la Aplicación sin la autorización expresa de Hyperion.
-Propiedad intelectual
-La Aplicación y todo su contenido, incluyendo pero no limitado a textos, gráficos, imágenes, videos, logotipos y software, están protegidos por las leyes de propiedad intelectual. La empresa Hyperion es propietaria de todos los derechos de propiedad intelectual de la Aplicación.
-Privacidad
-Hyperion respeta su privacidad y cumple con todas las leyes aplicables de protección de datos. La información personal que usted proporciona a la Aplicación se utilizará solo para los fines previstos en la Política de Privacidad de la Aplicación. Al utilizar la Aplicación, usted acepta nuestra Política de Privacidad.
-Limitación de responsabilidad
-Hyperion no será responsable de ningún daño directo, indirecto, incidental, especial o consecuente, incluyendo, pero no limitado a, daños por pérdida de beneficios, interrupción de negocios, pérdida de información u otros daños pecuniarios, que resulten del uso o la imposibilidad de uso de la Aplicación.
-Modificaciones de los Términos
-Hyperion se reserva el derecho de modificar estos Términos en cualquier momento. Si modificamos estos Términos, le notificaremos a través de la Aplicación o por correo electrónico. Si no está de acuerdo con los Términos modificados, debe dejar de utilizar la Aplicación.
-Ley aplicable y jurisdicción
-Estos Términos se regirán e interpretarán de acuerdo con las leyes de [país donde está registrada la empresa Hyperion]. Cualquier disputa que surja en relación con estos Términos estará sujeta a la jurisdicción exclusiva de los tribunales de [ciudad donde está registrada la empresa Hyperion].
-Al utilizarla Aplicación, usted acepta someterse a la jurisdicción exclusiva de los tribunales de [ciudad donde está registrada la empresa Hyperion] para cualquier disputa que surja en relación con estos Términos.
-Terminación
-Hyperion se reserva el derecho de terminar su acceso a la Aplicación en cualquier momento y sin previo aviso si incumple estos Términos.
-Disposiciones generales
-Si alguna disposición de estos Términos se considera inválida o inaplicable, dicha disposición se interpretará de conformidad con la ley aplicable de manera que refleje, en la medida de lo posible, la intención original de las partes y las demás disposiciones seguirán siendo válidas y aplicables.
-La renuncia a cualquier disposición de estos Términos por parte de Hyperion no se considerará una renuncia adicional o continua a dicha disposición o a cualquier otra disposición.
-Estos Términos constituyen el acuerdo completo entre usted y Hyperion en relación con la Aplicación y reemplazan todos los acuerdos previos o contemporáneos entre usted y Hyperion en relación con la Aplicación.
-Si tiene alguna pregunta o inquietud sobre estos Términos, contáctenos a través de [correo electrónico o formulario de contacto de la Aplicación].
-Fecha de entrada en vigor: [fecha de entrada en vigor de los Términos].
-Gracias por utilizar la Aplicación de Hyperion.
+         Welcome to the Hyperion mobile application (hereinafter, the "Application"). These terms and conditions (hereinafter, the "Terms") establish the conditions of use of the Application. By using the Application, you agree to these Terms in their entirety. If you do not agree to these Terms, please do not use the Application.
+         Application Object
+The Application is a service of [description of the service offered by the application]. The Hyperion company owns the Application and reserves all rights to the Application.
+Terms of use
+By using the Application, you agree to the following conditions:
+to. You are responsible for your use of the Application. You may not use the Application for illegal or unauthorized purposes.
+b. You may not use the Application in any way that could damage, disable, overburden, or impair the Application or interfere with its use by other users.
+c. You may not use the Application to send junk mail, spam or any other type of unsolicited communication.
+d. You may not copy, modify, or distribute content from the Application without the express permission of Hyperion.
+Intellectual property
+The Application and all its content, including but not limited to text, graphics, images, videos, logos and software, are protected by intellectual property laws. The Hyperion company owns all intellectual property rights in the Application.
+Privacy
+Hyperion respects your privacy and complies with all applicable data protection laws. The personal information that you provide to the Application will be used only for the purposes provided in the Privacy Policy of the Application. By using the Application, you agree to our Privacy Policy.
+Limitation of Liability
+Hyperion shall not be liable for any direct, indirect, incidental, special, or consequential damages, including, but not limited to, damages for lost profits, business interruption, loss of information, or other pecuniary damages, resulting from the use or inability to use of the Application.
+Changes to the Terms
+Hyperion reserves the right to modify these Terms at any time. If we change these Terms, we will notify you through the Application or by email. If you do not agree to the modified Terms, you must stop using the Application.
+Governing Law and Jurisdiction
+These Terms shall be governed by and construed in accordance with the laws of [country where the Hyperion company is registered]. Any dispute arising in connection with these Terms shall be subject to the exclusive jurisdiction of the courts of [city where Hyperion company is registered].
+By using the Application, you agree to submit to the exclusive jurisdiction of the courts of [city where Hyperion company is registered] for any disputes arising in connection with these Terms.
+Termination
+Hyperion reserves the right to terminate your access to the Application at any time and without notice if you breach these Terms.
+General disposition
+If any provision of these Terms is held invalid or unenforceable, that provision will be construed in accordance with applicable law to reflect, to the extent possible, the original intent of the parties and the other provisions will remain valid and enforceable.
+Hyperion's waiver of any provision of these Terms shall not be deemed a further or continuing waiver of that provision or any other provision.
+These Terms constitute the entire agreement between you and Hyperion in relation to the Application and supersede all prior or contemporaneous agreements between you and Hyperion in relation to the Application.
+If you have any questions or concerns about these Terms, please contact us via [email or Application contact form].
+Effective Date: [effective date of the Terms].
+Thank you for using the Hyperion Application.
+
     </string>
-    <string name="atrás">atrás</string>
 </resources>
