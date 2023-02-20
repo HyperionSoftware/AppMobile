@@ -15,6 +15,9 @@
             android:name=".TermsAndConditions"
             android:exported="false" />
         <activity
+            android:name=".SplashActivity"
+            android:exported="false" />
+        <activity
             android:name=".AboutPage"
             android:exported="false" />
         <activity
