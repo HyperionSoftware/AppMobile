@@ -1,4 +1,4 @@
-package udl.cat.hyperion.appmobils.thegame.Models.Player;
+package cat.udl.hyperion.appmobils.thegame.Models.Player;
 
 /**
  * Esta clase representa un jugador humano.

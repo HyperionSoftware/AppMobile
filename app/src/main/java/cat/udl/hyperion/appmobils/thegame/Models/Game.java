@@ -1,7 +1,7 @@
-package udl.cat.hyperion.appmobils.thegame.Models;
+package cat.udl.hyperion.appmobils.thegame.Models;
 
 
-import udl.cat.hyperion.appmobils.thegame.Models.Player.Player;
+import cat.udl.hyperion.appmobils.thegame.Models.Player.Player;
 
 
 /**
