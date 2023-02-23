@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'udl.cat.hyperion.appmobils.thegame'
+    namespace 'cat.udl.hyperion.appmobils.thegame'
     compileSdk 33
 
     defaultConfig {
-        applicationId "udl.cat.hyperion.appmobils.thegame"
+        applicationId "cat.udl.hyperion.appmobils.thegame"
         minSdk 26
         targetSdk 33
         versionCode 1
