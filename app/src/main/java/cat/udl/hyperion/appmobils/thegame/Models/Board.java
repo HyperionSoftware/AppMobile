@@ -1,4 +1,4 @@
-package udl.cat.hyperion.appmobils.thegame.Models;
+package cat.udl.hyperion.appmobils.thegame.Models;
 
 
 /**

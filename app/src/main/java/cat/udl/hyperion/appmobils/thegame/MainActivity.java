@@ -1,4 +1,4 @@
-package udl.cat.hyperion.appmobils.thegame;
+package cat.udl.hyperion.appmobils.thegame;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     private Button aboutPageButton;
     private Button termsAndConditionsButton;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

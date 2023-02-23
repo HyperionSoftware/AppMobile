@@ -1,4 +1,4 @@
-package udl.cat.hyperion.appmobils.thegame;
+package cat.udl.hyperion.appmobils.thegame;
 
 import androidx.appcompat.app.AppCompatActivity;
 

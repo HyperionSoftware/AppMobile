@@ -1,8 +1,8 @@
-package udl.cat.hyperion.appmobils.thegame.Models.Player;
+package cat.udl.hyperion.appmobils.thegame.Models.Player;
 
 import java.util.ArrayList;
 
-import udl.cat.hyperion.appmobils.thegame.Models.Card;
+import cat.udl.hyperion.appmobils.thegame.Models.Card;
 
 /**
  * La clase jugador representa el jugador del juego, con sus cartas, puntos y jugadas.
