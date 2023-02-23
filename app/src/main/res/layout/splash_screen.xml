@@ -4,16 +4,15 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/splash_image"
-        android:layout_width="417dp"
-        android:layout_height="804dp"
-        android:layout_centerInParent="true"
-        android:src="@drawable/hyperionransparente"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        android:contentDescription="TODO" />
+    <?xml version="1.0" encoding="utf-8"?>
+    <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+        <item android:drawable="@color/colorPrimary" />
+        <item>
+            <bitmap
+                android:gravity="center"
+                android:src="@drawable/hyperionransparente" />
+        </item>
+    </layer-list>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
