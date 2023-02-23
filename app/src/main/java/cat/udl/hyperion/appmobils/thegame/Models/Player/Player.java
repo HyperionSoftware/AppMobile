@@ -26,7 +26,8 @@ public class Player {
      * */
     public Card captureCard(){
         //TODO
-        return new Card();
+        Card card = null;
+        return card;
     }
 
 

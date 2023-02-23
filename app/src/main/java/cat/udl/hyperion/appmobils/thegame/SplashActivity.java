@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+import udl.cat.hyperion.appmobils.thegame.R;
+
 public class SplashActivity extends AppCompatActivity {
 
     @Override
