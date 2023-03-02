@@ -3,43 +3,35 @@ package cat.udl.hyperion.appmobils.thegame.Models.Player;
 import java.util.ArrayList;
 
 import cat.udl.hyperion.appmobils.thegame.Models.Card;
+import cat.udl.hyperion.appmobils.thegame.Models.Deck;
 
 /**
  * La clase jugador representa el jugador del juego, con sus cartas, puntos y jugadas.
  * */
-public class Player {
-    private int points;
-    private ArrayList<Card> cards;
-    private boolean isComputer;
+public class Player{
+    private String name;
+    private Deck deck;
+    private int score;
 
-
-    /**
-     * Este método se llama cuando el jugador coloca una carta en el tablero.
-     * */
-    public void playCard(Card card){
-        //TODO
+    public Player(String name, Deck deck) {
+        this.name = name;
+        this.deck = deck;
+        this.score = 0;
     }
 
-
-    /**
-     * Este método se llama cuando el jugador captura una carta de su oponente.
-     * */
-    public Card captureCard(){
-        //TODO
-        Card card = null;
-        return card;
+    public Deck getDeck() {
+        return this.deck;
     }
 
-
-    /**
-     * Este método se llama para calcular la puntuación del jugador.
-     * */
-    public int calculatePuntuation(){
-        //TODO
-        return 0;
+    public int getScore() {
+        return this.score;
     }
 
+    public void incrementScore() {
+        this.score++;
+    }
 
-
-
+    public void playCard() {
+    }
 }
+

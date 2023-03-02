@@ -3,29 +3,33 @@ package cat.udl.hyperion.appmobils.thegame.Models;
 //import android.sax.Element;
 
 
-import org.w3c.dom.Element;
-
 /**
  * La clase Carta representaría una carta del juego, con sus atributos y métodos y valores numéricos de elemento.
  * */
-public class Card {
 
+public class Card {
     private int up;
     private int down;
     private int left;
     private int right;
-    private Element element;
     private int value;
-
     private int positionRow;
     private int positionColumn;
-
-    private boolean selected;
+    private boolean isSelected;
 
     /**
-     * Método constructor de una carta.
-     * */
-    public Card(int up, int down, int left, int right, int value, int positionRow, int positionColumn){
+     * Constructor for the Card class.
+     *
+     * @param up             The number on the top side of the card.
+     * @param down           The number on the bottom side of the card.
+     * @param left           The number on the left side of the card.
+     * @param right          The number on the right side of the card.
+     * @param fire
+     * @param value          The value of the card.
+     * @param positionRow    The row position of the card on the game board.
+     * @param positionColumn The column position of the card on the game board.
+     */
+    public Card(int up, int down, int left, int right, Element fire, int value, int positionRow, int positionColumn) {
         this.up = up;
         this.down = down;
         this.left = left;
@@ -33,105 +37,64 @@ public class Card {
         this.value = value;
         this.positionRow = positionRow;
         this.positionColumn = positionColumn;
-        this.selected = false; //TODO: ¿? Is that thing correct?
-    }
-    /**
-     * Este método se llama cuando la carta es capturada por el jugador enemigo.
-     * */
-    public void capture(){
-        // Set the selected status of the card to false
-        selected = false;
-
-        // Set the position of the card to (-1, -1) to indicate that it's no longer on the board
-        positionRow = -1;
-        positionColumn = -1;
-
-        // TODO: Update the card pool to reflect that the card is no longer available
-        // TODO: Subtract the value of the card from the enemy player's score
-        // TODO: Add the value of the card to the capturing player's score
+        this.isSelected = false;
     }
 
 
     /**
-     * Este método se llama cuando el jugador selecciona la carta.
-     * */
-    public void select(){
-        // Set the selected status of the card to true
-        selected = true;
-        // TODO: Add code to handle the selection of the card by the player
-    }
-
-    // Getters and setters
-    //TODO: See if all of them are necessary during the coding.
-    public int getUp() {
-        return up;
-    }
-
-    public void setUp(int up) {
-        this.up = up;
-    }
-
-    public int getDown() {
-        return down;
-    }
-
-    public void setDown(int down) {
-        this.down = down;
-    }
-
-    public int getLeft() {
-        return left;
-    }
-
-    public void setLeft(int left) {
-        this.left = left;
-    }
-
-    public int getRight() {
-        return right;
-    }
-
-    public void setRight(int right) {
-        this.right = right;
-    }
-
-    public Element getElement() {
-        return element;
-    }
-
-    public void setElement(Element element) {
-        this.element = element;
-    }
-
+     * Returns the value of the card.
+     * @return The value of the card.
+     */
     public int getValue() {
         return value;
     }
 
-    public void setValue(int value) {
-        this.value = value;
+    /**
+     * Returns whether or not the card is selected.
+     * @return True if the card is selected, false otherwise.
+     */
+    public boolean isSelected() {
+        return isSelected;
     }
 
+    /**
+     * Sets whether or not the card is selected.
+     * @param isSelected True if the card should be selected, false otherwise.
+     */
+    public void setSelected(boolean isSelected) {
+        this.isSelected = isSelected;
+    }
+
+    /**
+     * Captures the card.
+     */
+    public void capture() {
+        //TODO
+    }
+
+    /**
+     * Returns the row position of the card on the game board.
+     * @return The row position of the card on the game board.
+     */
     public int getPositionRow() {
         return positionRow;
     }
 
-    public void setPositionRow(int positionRow) {
-        this.positionRow = positionRow;
-    }
-
+    /**
+     * Returns the column position of the card on the game board.
+     * @return The column position of the card on the game board.
+     */
     public int getPositionColumn() {
         return positionColumn;
     }
 
-    public void setPositionColumn(int positionColumn) {
+    /**
+     * Sets the position of the card on the game board.
+     * @param positionRow The row position of the card on the game board.
+     * @param positionColumn The column position of the card on the game board.
+     */
+    public void setPosition(int positionRow, int positionColumn) {
+        this.positionRow = positionRow;
         this.positionColumn = positionColumn;
-    }
-
-    public boolean isSelected() {
-        return selected;
-    }
-
-    public void setSelected(boolean selected) {
-        this.selected = selected;
     }
 }

@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-import udl.cat.hyperion.appmobils.thegame.R;
+import cat.udl.hyperion.appmobils.thegame.R;
 
 public class AboutPage extends AppCompatActivity {
 
